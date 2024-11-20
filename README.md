@@ -47,7 +47,7 @@ Visit [Google Colab](https://colab.research.google.com/) and sign in with your G
 1. Click on **"File" > "New Notebook"**.
 2. A new notebook will open with a Python runtime ready to use.
 
-![New Notebook](https://via.placeholder.com/800x400.png?text=Google+Colab+New+Notebook)
+![New Notebook](https://bebi103a.github.io/_images/colab_splash.png)
 
 ### Step 3: Connect to Runtime
 Click on the **"Connect"** button at the top-right to initialize the runtime.
@@ -126,7 +126,7 @@ plt.show()
 ### Step 3: Save the Notebook
 Go to **"File" > "Save a Copy in Drive"** to save your work to Google Drive.
 
-![Save Notebook](https://via.placeholder.com/800x400.png?text=Save+Notebook)
+![Save Notebook](https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/03/08-google-colab-save-a-copy-in-github.png)
 
 ---
 
