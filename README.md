@@ -168,6 +168,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - [Google Colab Documentation](https://colab.research.google.com/notebooks/welcome.ipynb)
 - [Python Official Docs](https://docs.python.org/3/)
 - [Colab Pro](https://colab.research.google.com/signup)
+- ![Google Colab](https://img.shields.io/badge/Google-Colab-yellow)
+![Python 3.10](https://img.shields.io/badge/Python-3.10-blue)
 
 ---
 
